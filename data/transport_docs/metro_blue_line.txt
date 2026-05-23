@@ -1,0 +1,9 @@
+Metro Line Blue - Airport Link
+Connects International Airport to Downtown Hub.
+Service Hours: 04:00 - 00:00 Daily.
+Frequency: 
+- Weekdays: 8 minutes peak, 12 minutes off-peak.
+- Weekends: 15 minutes all day.
+Key Interchanges: Airport Terminal 1, Airport Terminal 2, Sky Bridge, Commerce Center, Downtown Hub.
+Baggage Policy: Passengers are allowed two large suitcases and one carry-on. Priority seating available for elderly and disabled passengers.
+Fare: $5.00 flat rate for airport travel.

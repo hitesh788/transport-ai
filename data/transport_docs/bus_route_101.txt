@@ -1,0 +1,8 @@
+Route 101 - Downtown Express
+Operates from Central Station to North Pier.
+Morning Peak: 06:30 - 09:30 (Every 10 minutes)
+Mid-day: 09:30 - 15:30 (Every 20 minutes)
+Evening Peak: 15:30 - 19:00 (Every 10 minutes)
+Stops: Central Station, Financial District, Union Square, North Pier.
+Total Travel Time: 25 minutes.
+Fare: $2.50 per ride.
